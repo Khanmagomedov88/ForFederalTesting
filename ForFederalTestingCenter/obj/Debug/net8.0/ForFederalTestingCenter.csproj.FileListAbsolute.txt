@@ -1,0 +1,15 @@
+C:\Users\magom\source\repos\ForFederalTestingCenter\ForFederalTestingCenter\bin\Debug\net8.0\ForFederalTestingCenter.exe
+C:\Users\magom\source\repos\ForFederalTestingCenter\ForFederalTestingCenter\bin\Debug\net8.0\ForFederalTestingCenter.deps.json
+C:\Users\magom\source\repos\ForFederalTestingCenter\ForFederalTestingCenter\bin\Debug\net8.0\ForFederalTestingCenter.runtimeconfig.json
+C:\Users\magom\source\repos\ForFederalTestingCenter\ForFederalTestingCenter\bin\Debug\net8.0\ForFederalTestingCenter.dll
+C:\Users\magom\source\repos\ForFederalTestingCenter\ForFederalTestingCenter\bin\Debug\net8.0\ForFederalTestingCenter.pdb
+C:\Users\magom\source\repos\ForFederalTestingCenter\ForFederalTestingCenter\obj\Debug\net8.0\ForFederalTestingCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magom\source\repos\ForFederalTestingCenter\ForFederalTestingCenter\obj\Debug\net8.0\ForFederalTestingCenter.AssemblyInfoInputs.cache
+C:\Users\magom\source\repos\ForFederalTestingCenter\ForFederalTestingCenter\obj\Debug\net8.0\ForFederalTestingCenter.AssemblyInfo.cs
+C:\Users\magom\source\repos\ForFederalTestingCenter\ForFederalTestingCenter\obj\Debug\net8.0\ForFederalTestingCenter.csproj.CoreCompileInputs.cache
+C:\Users\magom\source\repos\ForFederalTestingCenter\ForFederalTestingCenter\obj\Debug\net8.0\ForFederalTestingCenter.dll
+C:\Users\magom\source\repos\ForFederalTestingCenter\ForFederalTestingCenter\obj\Debug\net8.0\refint\ForFederalTestingCenter.dll
+C:\Users\magom\source\repos\ForFederalTestingCenter\ForFederalTestingCenter\obj\Debug\net8.0\ForFederalTestingCenter.pdb
+C:\Users\magom\source\repos\ForFederalTestingCenter\ForFederalTestingCenter\obj\Debug\net8.0\ForFederalTestingCenter.genruntimeconfig.cache
+C:\Users\magom\source\repos\ForFederalTestingCenter\ForFederalTestingCenter\obj\Debug\net8.0\ref\ForFederalTestingCenter.dll
+C:\Users\magom\source\repos\ForFederalTestingCenter\ForFederalTestingCenter\obj\Debug\net8.0\ForFederalTestingCenter.sourcelink.json
